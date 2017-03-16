@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\bin\Debug\WPFClient.exe.config
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\bin\Debug\WPFClient.exe
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\bin\Debug\WPFClient.pdb
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\bin\Debug\IPMaskedTextBox.dll
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient.g.resources
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient.exe
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFClient\obj\Debug\WPFClient.pdb

@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\bin\Debug\WPFServer.exe.config
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\bin\Debug\WPFServer.exe
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\bin\Debug\WPFServer.pdb
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\bin\Debug\IPMaskedTextBox.dll
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer.g.resources
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer.exe
+D:\Documents\Visual Studio 2015\Projects\AsyncSocket\WPFServer\obj\Debug\WPFServer.pdb
